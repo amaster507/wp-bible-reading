@@ -13,3 +13,7 @@ Setting up to use this plugin is very simple. First create a new page in your Wo
 ###*_Notice_*:
 
 The Authorized King James Version text is in the public domain in every country besides the United Kingdom.
+
+##WordPress Plugin Zipped File
+
+https://github.com/amaster507/wp-bible-reading/blob/master/amd-bible-reading-widget.zip
