@@ -1,0 +1,32 @@
+.amdbible_passage {
+}
+
+.amdbible_title{
+	text-align:center;
+	margin-bottom: 0;
+}
+
+.amdbible_book{
+	font-size: 300%;
+	text-align:center;
+	margin-bottom: 0;
+}
+
+.amdbible_chapter{
+	float: left;
+	color: #903;
+	font-size: 65px;
+	line-height: 50px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-left: 3px;
+}
+
+.amdbible_verse{
+	vertical-align: super;
+	font-size: 50%;
+	font-weight: bold;
+}
+
+.amdbible_text{
+}
