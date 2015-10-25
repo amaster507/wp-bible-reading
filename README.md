@@ -8,4 +8,8 @@ Please use the link below to obtain your copy of the plugin, then simply upload 
 
 ##SETTING UP FOR USE
 
-Setting up to use this plugin is very simple. First create a new page in your WordPress site, then add the shortcode [amd_bible_daily] to turn the page into the actual reading plan. Next choose which sidebar or widget area you want the snippet to be and install the widget and set the few options to your choosing. Be sure to select the page you created for the full reading plan to show the link to continue reading.
+Setting up to use this plugin is very simple. First create a new page in your WordPress site, then add the shortcode `[amd_bible_daily]` to turn the page into the actual reading plan. Next choose which sidebar or widget area you want the snippet to be and install the widget and set the few options to your choosing. Be sure to select the page you created for the full reading plan to show the link to continue reading.
+
+###*_Notice_*:
+
+The Authorized King James Version text is in the public domain in every country besides the United Kingdom.
